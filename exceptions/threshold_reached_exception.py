@@ -1,0 +1,2 @@
+class ThresholdReachedException(Exception):
+    pass
