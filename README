@@ -1,1 +1,2 @@
 Aorato interview project
+Use `python main.py --server_port [SELECTED_SERVER_PORT] --num_of_clients [NUMBER_OF_CLIENTS]` in order to start the program.
